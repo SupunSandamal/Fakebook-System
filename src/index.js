@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -18,5 +17,3 @@ root.render(
 // Youtube Channel
 // https://www.youtube.com/watch?v=_g0ymWhfcTA&list=PL68g11dFe-_UhB3SFqyiIMBpRvNV_oTL-&index=2
 
-
-reportWebVitals();

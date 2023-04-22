@@ -1,5 +1,5 @@
 import React from 'react'
-import "./PostPane.css"
+import "./postPane.css"
 
 export default function PostPane() {
   return (

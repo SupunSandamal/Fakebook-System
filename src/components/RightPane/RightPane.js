@@ -1,5 +1,5 @@
 import React from 'react'
-import "./RightPane.css"
+import "./rightPane.css"
 
 export default function RightPane() {
   return (

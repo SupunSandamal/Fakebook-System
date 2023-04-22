@@ -70,4 +70,11 @@
 .searchInput:focus {
   outline: none;
 }
-
+.iconTag{
+  width: 15px;
+  height: 15px;
+  background-color: red;
+  color: white;
+  position: absolute;
+  border-radius: 50%;
+}

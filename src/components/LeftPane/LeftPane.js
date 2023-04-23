@@ -70,6 +70,7 @@ export default function LeftPane() {
             <h3>Pages You Like</h3>
           </div>
 
+          <div className="pageList">
           <li className="pageListItem">
             <img src="/images/profile.jpg" alt="" className="pagePic" />
             <span className="PageName">Code with Supun</span>
@@ -89,6 +90,27 @@ export default function LeftPane() {
             <img src="/images/profile.jpg" alt="" className="pagePic" />
             <span className="PageName">Code with Supun</span>
           </li>
+
+          <li className="pageListItem">
+            <img src="/images/profile.jpg" alt="" className="pagePic" />
+            <span className="PageName">Code with Supun</span>
+          </li>
+
+          <li className="pageListItem">
+            <img src="/images/profile.jpg" alt="" className="pagePic" />
+            <span className="PageName">Code with Supun</span>
+          </li>
+
+          <li className="pageListItem">
+            <img src="/images/profile.jpg" alt="" className="pagePic" />
+            <span className="PageName">Code with Supun</span>
+          </li>
+
+          <li className="pageListItem">
+            <img src="/images/profile.jpg" alt="" className="pagePic" />
+            <span className="PageName">Code with Supun</span>
+          </li>
+          </div>
 
         </div>
       </div>

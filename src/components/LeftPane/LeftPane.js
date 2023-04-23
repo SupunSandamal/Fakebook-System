@@ -3,6 +3,6 @@ import "./leftPane.css"
 
 export default function LeftPane() {
   return (
-    <div>LeftPane</div>
+    <div className='leftPaneBox'>LeftPane</div>
   )
 }

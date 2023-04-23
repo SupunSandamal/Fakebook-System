@@ -1,4 +1,30 @@
 .leftPaneBox{
-    background-color: red;
     flex: 2;
+}
+.leftPaneContainer{
+    padding: 20px;
+}
+.leftPaneManu{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.leftPaneMenyItem{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.leftPaneMenuIcon{
+    margin-right: 20px;
+}
+.pagePic{
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+}
+.pagesYouLike{
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+    color: rgb(94, 94, 95);
 }

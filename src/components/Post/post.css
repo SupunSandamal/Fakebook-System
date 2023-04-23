@@ -1,0 +1,32 @@
+.postImage {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.post {
+  font-family: sans-serif;
+  -webkit-box-shadow: 9px 9px 25px -9px rgba(0,0,0,0.52); 
+   box-shadow: 9px 9px 25px -9px rgba(0,0,0,0.52);
+   margin: 30px 0;
+   margin-left: 10px;
+   border-radius: 10px;
+}
+.postTop {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+}
+.postUserName {
+  font-size: 15px;
+  font-weight: 500;
+  margin: 0 10px;
+}
+.postTime {
+  font-size: 10px;
+}
+.postedImage{
+    width: 98%;
+    background-size: cover;
+    margin-left: 5px;
+}

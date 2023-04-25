@@ -13,7 +13,7 @@ export default function Post() {
          </div>
         </div>
         <div className="postCenter">
-          <div className="postCaption">hey..! Skill is power..!</div>
+          <div className="postCaption">Hey..! Skill is Power..!</div>
           <img src="/Images/Supun.jpg" alt="" className="postedImage" />
         </div>
         <div className="postBottom">

@@ -11,6 +11,7 @@
    margin: 30px 0;
    margin-left: 10px;
    border-radius: 10px;
+   width: 95%;
 }
 .postTop {
   margin-top: 15px;
@@ -22,17 +23,20 @@
   display: flex;
   align-items: center;
   margin-top: 10px;
+  /* margin-left: 5px; */
 }
 .postCenter{
-  margin: 20px 0;
+  margin: 15px 0;
 }
 .postCaption{
-  margin-left: 10px;
+  margin-left: 5px;
+  margin-bottom: 5px;
 }
 .postUserName {
   font-size: 15px;
   font-weight: 500;
   margin: 0 10px;
+  font-weight: bold;
 }
 .postTime {
   font-size: 10px;

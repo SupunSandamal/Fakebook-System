@@ -16,6 +16,44 @@
     color: rgb(125, 129, 133);
 }
 .adImage{
-    width: 250px;
-    height: 150px;
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 98%;
+}
+.dirthdayContainer{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.birthdayImage{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+}
+.onlineFriendImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.onlineFriend{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.onlineFriendImageContainer{
+    display: flex;
+    position: relative;
+}
+.onlineStatus{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: rgb(19, 226, 19);
+    position: absolute;
+    top: 30px;
+    right: 0;
+    border: 2px solid white;
 }
